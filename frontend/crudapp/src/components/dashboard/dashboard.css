@@ -1,0 +1,28 @@
+.card{
+    width: 200px;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+.card-part{
+    width: 800px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+}
+
+.margin-second{
+    margin-right: -90px;
+}
+
+.secondcard{
+    
+    margin-left: 200px;
+}
+
+.myaccount{
+    text-decoration: none !important;
+}
